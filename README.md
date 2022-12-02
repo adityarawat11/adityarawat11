@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning AWS and Pytorch
 - 💞️ I’m looking to collaborate on anything ML related things
-- 📫 How to reach me 
 
 <!---
 adityarawat11/adityarawat11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
