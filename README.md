@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adityarawat11
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning AWS and Pytorch
+- 👀 I’m interested in GENAI and Data Science.
 - 💞️ I’m looking to collaborate on any ML related thing
 
 <!---
