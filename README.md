@@ -17,5 +17,5 @@ I’ve led multiple initiatives across industries (e.g., travel, mobility) where
 I'm always up for discussions on GenAI, MLOps, and applied AI. Feel free to connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-rawat)
-- 🧪 [HuggingFace]([https://huggingface.co/your-profile](https://huggingface.co/addie11)) 
+- 🧪 [HuggingFace](https://huggingface.co/addie11) 
 - 📬 Email: adityarawat118@gmail.com
